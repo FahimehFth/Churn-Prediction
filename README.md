@@ -36,6 +36,4 @@ The project is organized into the following phases:
 
 ## Results
 The model's performance is evaluated using ROC AUC.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Mean CV ROC AUC: 0.7
